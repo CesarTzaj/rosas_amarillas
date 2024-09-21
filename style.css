@@ -101,7 +101,9 @@ body {
   color: #f00;
   font-size: 30px;
 }
-
+.christie {
+  font-size: 35px;
+}
 .material-symbols-outlined {
   font-variation-settings: "FILL" 1, "wght" 700, "GRAD" 200, "opsz" 24;
 }
